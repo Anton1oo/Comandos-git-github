@@ -1,3 +1,5 @@
+<img src="https://eliascastroblog.files.wordpress.com/2017/10/logo_git.png">
+
 **Comandos GIT**
 
 - **``para criar pasta``**:
